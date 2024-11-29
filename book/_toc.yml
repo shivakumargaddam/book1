@@ -1,9 +1,9 @@
 format: jb-book
-root: overview.md
+root: intro.md
 
 parts:
-  chapters:
-    - file: overview.md
+    chapters:
+      - file: introduction.md
   - caption: Contents
     chapters:
     - file: some_content/overview.md
