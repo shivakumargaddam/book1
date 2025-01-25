@@ -19,3 +19,4 @@ parts:
   - caption: Test
     chapters:
     - file: test.ipynb
+    - file: timoshenko.ipynb
